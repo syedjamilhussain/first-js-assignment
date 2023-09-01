@@ -1,0 +1,18 @@
+h1 {
+    font-size:60px;
+    color: brown;
+    border: 5px solid green;
+    text-align: center;
+    margin: 0% auto;
+    border-radius: 50px;
+    text-transform: capitalize; 
+    margin-bottom: 20px;
+}
+body {
+    text-align: center;
+    text-transform: capitalize;
+    font-family: sans-serif;
+}
+.form1 {
+    margin: ;
+}
